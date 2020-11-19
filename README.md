@@ -3,7 +3,7 @@
 
 Currículo de Tech Recruiter
 
-- 🔭 Atualmente estou trabalhando na Maeztra como Tech Recruiter e sempre tenho vagas para desenvolvedores. Cola ai ?! (Maeztra.trampos.co).
+- 🔭 Atualmente estou trabalhando  como Tech Recruiter e sempre tenho vagas para desenvolvedores.
 
 - 🏆 Também sou desenvolvedor (em aprendizado), minha primeira linguagem de programação é o Exce, depois VBA e agora estou aprendendo sobre JS para criar Google Apps Scripts (Amo Muito) tenho um repositório no Notion (https://bit.ly/paranaoprogrampadores).
 
