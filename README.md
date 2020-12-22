@@ -16,3 +16,8 @@ Currículo de Tech Recruiter
 - 🤔 Github, estou aprendendo a usar isso aqui. rs e aceito pull requests nos meus códigos para melhora-los. 
 
 - 💬 Pergunte-me sobre como melhorar o seu currículo aqui ou no linkedin estou pronto para te ajudar.
+
+
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>	<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
