@@ -18,4 +18,4 @@
 - 💬 Pergunte-me sobre como melhorar o seu currículo aqui ou no linkedin estou pronto para te ajudar.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciocl&layout=compact)](https://github.com/marciocl/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciocl&show_icons=true&theme=radical)
